@@ -9,8 +9,8 @@ tasks:
 
 vscode:
   extensions:
-    - vscodevim.vim
     - ms-azuretools.vscode-docker
     - eamodio.gitlens
+    - vscodevim.vim
 # test gitpod workspace with github issue #1
 # test some change issue2
