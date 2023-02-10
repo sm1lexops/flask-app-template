@@ -12,4 +12,5 @@ vscode:
     - vscodevim.vim
     - ms-azuretools.vscode-docker
     - eamodio.gitlens
+# test gitpod workspace with github issue #1
 # test some change issue2
