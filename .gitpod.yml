@@ -5,6 +5,11 @@
 # Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
 
 tasks:
-  - init: npm install && pip install -r requirements.txt
+  - name: Terminal 1
+    before: echo "Terminal 1"
+    init: npm install && pip install -r requirements.txt
+
+  - name: Terminal 2
+    init: echo "Terminal 2"
 
 
